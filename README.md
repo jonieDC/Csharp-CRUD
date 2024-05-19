@@ -11,7 +11,7 @@ An application to demonstrate create,update,delete and read
 ### Executing program
 
 
-* open the program using visual studio and run
+* open the folder using visual studio and run the program
 
   ## Authors
 
