@@ -7,7 +7,6 @@ An application to demonstrate create,update,delete and read
 ### Dependencies
 
 * visual studio
-* sql management studio
 
 ### Executing program
 
@@ -16,4 +15,4 @@ An application to demonstrate create,update,delete and read
 
   ## Authors
 
-*jonieDC
+* jonieDC
